@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hi, I'm Monika!  
 
-<!--
-**Monika731/Monika731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Software Engineer** with over **4 years of experience** in **Full stack web development and Android Development**. Passionate about problem-solving and building scalable applications, I constantly explore new technologies to enhance my skills.  
 
-Here are some ideas to get you started:
+## 🔥 What I'm Working On  
+- Solving **Data Structures & Algorithms (DSA)** challenges  
+- Building **React applications**  
+- Enhancing backend and cloud expertise  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 What I'm Learning  
+- **Cloud technologies** (AWS, GCP)  
+- **DevOps & CI/CD**  
+- **Scalability & distributed systems**  
+
+## 🛠️ Tech Stack  
+- **Languages:** Python, Java, JavaScript, Typescript, Kotlin, HTML5, CSS3, Bootstrap
+- **Frameworks:** Spring, Express, React, Node.js, Angular  
+- **Databases:** MySQL, Relational Database Design, MongoDB, Microsoft SQL Server  
+- **Cloud & DevOps:** AWS, Docker, Docker compose, Kubernetes, Jenkins
+
+🚀 **Always learning, always building!**  
+
