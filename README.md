@@ -1,16 +1,26 @@
 👋 Hi, I'm Monika!
 
-I'm a Software Engineer with 4+ years of experience in Full Stack Development and Android Development.  
-I enjoy building scalable applications and recently have been focusing on integrating **AI into real-world products**.
+I'm a Data Engineer / Software Engineer with 4+ years of experience building data pipelines, backend systems, and full-stack applications. I focus on turning raw, messy data into reliable, scalable pipelines — and lately, on applying that same data discipline to AI-powered products.
 
 ---
 
 🔥 What I'm Working On
 
+- Building batch and streaming data pipelines with PySpark, Databricks, and Delta Lake
+- Designing ETL/ELT workflows on Azure Data Lake
 - Solving Data Structures & Algorithms (DSA) problems
-- Building full-stack applications using React & Node.js
-- Developing AI-powered applications (semantic search, resume analysis tools)
+- Developing AI-powered applications (semantic search, resume-matching tools)
 - Exploring backend optimization and scalable systems
+
+---
+
+🗂️ Data Engineering Focus
+
+- Designed and optimized PySpark pipelines on Databricks (Azure), including schema enforcement and data quality checks
+- Built Delta Lake tables supporting time-travel queries and ACID-compliant updates
+- Applied partition tuning, broadcast joins, and caching strategies to improve Spark job performance
+- Practiced data governance: metadata management, data cataloging, data profiling, and validation
+- Built BI dashboards (Power BI, Tableau) on top of governed data pipelines for business stakeholders
 
 ---
 
@@ -22,56 +32,62 @@ I enjoy building scalable applications and recently have been focusing on integr
   - Retrieval-Augmented Generation (RAG)
   - Vector Databases & Embeddings
   - Prompt Engineering & LLM APIs
-- Exploring **Agentic AI workflows and tools**
+- Exploring **agentic AI workflows** and how they connect to data pipeline design
 
 ---
 
 📚 What I'm Learning
 
-- Cloud technologies (AWS, GCP)
-- DevOps & CI/CD pipelines
-- Scalability & distributed systems
+- Cloud data platforms (AWS, GCP) alongside Azure
+- DevOps & CI/CD for data pipelines
+- Distributed systems & scalability
 - Generative AI architecture and applications
 
 ---
 
 🛠️ Tech Stack
 
-**Languages:**  
-Python, Java, JavaScript, TypeScript, Kotlin
+**Languages:**
+Python, SQL, Java, JavaScript, TypeScript
 
-**Frontend:**  
-React, Angular, HTML5, CSS3, Bootstrap, Tailwind
+**Data Engineering:**
+PySpark, Apache Spark, Databricks, Delta Lake, Azure Data Lake, ETL/ELT Pipelines, Unity Catalog
 
-**Backend:**  
-Node.js, Express, Spring Boot, FastAPI
+**BI & Reporting:**
+Power BI, Tableau, Advanced Excel, Statistical Modeling
 
-**Databases:**  
-MySQL, MongoDB, SQL Server, Supabase
+**Backend & Full Stack:**
+Node.js, Express, Spring Boot, React, FastAPI
 
-**AI/ML:**  
+**Databases:**
+MySQL, MongoDB, SQL Server, Oracle, Supabase
+
+**AI/ML:**
 Hugging Face, Sentence Transformers, Vector Similarity (Cosine)
 
-**Cloud & DevOps:**  
-AWS, Docker, Docker Compose, Kubernetes, Jenkins
+**Cloud & DevOps:**
+AWS, Azure, Docker, Kubernetes, Jenkins, CI/CD
 
 ---
 
 🚀 Featured Projects
 
-- 🔍 **AI Resume Analyzer**  
+- 📊 **Distributed Data Pipeline (Capstone)**
+  Batch ETL pipeline on Databricks (Azure) using PySpark — ingested, transformed, and loaded semi-structured data into Delta Lake with schema enforcement and quality checks
+
+- 🔍 **AI Resume Analyzer**
   Resume ↔ Job Description matcher using embeddings and semantic similarity
 
-- 🧳 **Travel Diaries (Full Stack App)**  
+- 🧳 **Travel Diaries (Full Stack App)**
   Forum-style app with posts, comments, and user interactions
 
 ---
 
 💡 Goals
 
-- Build production-ready AI-powered applications  
-- Strengthen system design and backend architecture skills  
-- Contribute to open-source and real-world impactful projects  
+- Build production-grade data pipelines that power reliable analytics and AI applications
+- Strengthen distributed systems and data architecture skills
+- Contribute to open-source and real-world data engineering projects
 
 ---
 
